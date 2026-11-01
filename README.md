@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# My-first-portafolio
-A small HTML/CSS/JS website featuring my portfolio
-=======
 # My First Portfolio
 
 A small website built with HTML, CSS, and JavaScript to showcase my portfolio.
@@ -32,4 +28,3 @@ I'm not very creative when it comes to web design, so feel free to suggest impro
 This project is licensed under the **MIT License**. Anyone is free to use, modify, distribute, and even sell software incorporating this project, subject to the license terms.
 
 # :D
->>>>>>> 5d5ea0b (Finished1)
