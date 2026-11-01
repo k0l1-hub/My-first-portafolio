@@ -6,8 +6,8 @@ const discord = document.getElementById("discord");
 let leftX = 50;
 let topY = 50;
 
-let x;
-let y;
+let x = leftX;
+let y = topY;
 
 window.addEventListener("mousemove", (event) => {
     x = event.clientX;
