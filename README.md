@@ -8,6 +8,24 @@ A small website built with HTML, CSS, and JavaScript to showcase my portfolio.
 
 To view this project, simply visit the [GitHub Pages website](https://k0l1-hub.github.io/My-first-portafolio/).
 
+## How to Run It Locally
+
+There are two ways to download and run this project:
+
+### Option 1: Clone the repository
+Open Git Bash or your terminal.
+
+Run the following command:
+
+`git clone https://github.com/k0l1-hub/My-first-portafolio.git`
+
+Navigate to the downloaded folder:
+
+`cd My-first-portafolio`
+Open `index.html` in your preferred web browser.
+
+No additional dependencies or installations are required.
+
 ## What's Included
 
 * Skills
